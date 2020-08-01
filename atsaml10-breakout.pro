@@ -1,4 +1,4 @@
-update=Tue 28 Jul 2020 07:19:04 PM IST
+update=Fri 31 Jul 2020 11:42:03 PM IST
 version=1
 last_client=kicad
 [general]
@@ -237,7 +237,7 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
-Name=VDD
+Name=Power
 Clearance=0.2
 TrackWidth=0.5
 ViaDiameter=0.8
