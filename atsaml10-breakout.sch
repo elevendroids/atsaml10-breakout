@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ATSAML1x Breakout Board"
-Date "2020-09-14"
+Date "2020-09-15"
 Rev "A"
 Comp ""
 Comment1 "Universal breakout board for ATMSAML1x MCUs"
@@ -1036,7 +1036,7 @@ U 1 1 5F1DF5B1
 P 3750 6150
 F 0 "Y2" V 3600 5950 50  0000 R CNN
 F 1 "8MHz" V 3700 5950 50  0000 R CNN
-F 2 "Crystal:Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm" H 3750 6150 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm" H 3750 6150 50  0001 C CNN
 F 3 "https://ecsxtal.com/store/pdf/ecx_53b.pdf" H 3750 6150 50  0001 C CNN
 F 4 "ECS" V 3800 5950 40  0000 R CNN "MFR"
 F 5 "ECS-80-10-30B-CWN-TR" V 3900 5950 40  0000 R CNN "MPN"
